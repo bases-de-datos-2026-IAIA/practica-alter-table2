@@ -1,6 +1,6 @@
 # BASES DE DATOS - IAIA
 
-Repositorio para las actividades y prácticas de la unidad de aprendizaje **Bases de Datos**.
+
 
 ## Datos del estudiante
 
@@ -9,8 +9,9 @@ Repositorio para las actividades y prácticas de la unidad de aprendizaje **Base
 - **Periodo:** Agosto-Septiembre 2026
 
 ## Actividades
+<img width="993" height="561" alt="Captura de pantalla 2026-11-10 224307" src="https://github.com/user-attachments/assets/3a77b863-b5cf-461d-bfec-470f741eba3c" />
 
-En este repositorio se almacenarán las evidencias, archivos y prácticas realizadas durante el curso.
+
 
 ### Organización
 
