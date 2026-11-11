@@ -4,8 +4,8 @@ Repositorio para las actividades y prácticas de la unidad de aprendizaje **Base
 
 ## Datos del estudiante
 
-- **Nombre:**
-- **Grupo:**
+- **Nombre:** Ivan Gerardo Miranda Naranjo
+- **Grupo:** 301 de IAIA
 - **Periodo:** Agosto-Septiembre 2026
 
 ## Actividades
